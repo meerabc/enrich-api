@@ -1,0 +1,42 @@
+[
+  {
+    "id": "case1",
+    "input": { "title": "A Light in the Attic", "description": "A now-classic collection of poetry and drawings from Shel Silverstein, celebrated for its humorous and creative verse." },
+    "expected_category": "poetry"
+  },
+  {
+    "id": "case2",
+    "input": { "title": "Sapiens: A Brief History of Humankind", "description": "A groundbreaking narrative exploring how biology and history shaped humanity's evolution and rise to dominance." },
+    "expected_category": "nonfiction"
+  },
+  {
+    "id": "case3",
+    "input": { "title": "Sharp Objects", "description": "A reporter returns to her hometown to cover the murders of two preteen girls, unraveling her own troubled past along the way." },
+    "expected_category": "fiction"
+  },
+  {
+    "id": "case4",
+    "input": { "title": "Tipping the Velvet", "description": null },
+    "expected_category": "other"
+  },
+  {
+    "id": "case5",
+    "input": { "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull", "description": "A novel based on the life of feminist Victoria Woodhull, the first woman to run for U.S. President, 50 years before women could even vote." },
+    "expected_category": "fiction"
+  },
+  {
+    "id": "case6",
+    "input": { "title": "The Dirty Little Secrets of Getting Your Dream Job", "description": "Straightforward advice, sample cover letters, and resumes to help students and first-time job seekers land their dream job." },
+    "expected_category": "nonfiction"
+  },
+  {
+    "id": "case7",
+    "input": { "title": "Untitled Notes", "description": "asdf random text nothing coherent 12345" },
+    "expected_category": "other"
+  },
+  {
+    "id": "case8",
+    "input": { "title": "Soumission", "description": "Dans une France assez proche de la nôtre, un homme s'engage dans la carrière universitaire, alors que le pays bascule dans une crise politique." },
+    "expected_category": "fiction"
+  }
+]
